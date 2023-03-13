@@ -1,0 +1,14 @@
+inf     210     300     inf      inf      inf     inf     480     inf     inf     inf     inf     inf     inf
+210     inf     120     150      inf      inf     inf     inf     inf     inf     inf     inf     inf     inf
+300     120     inf     inf       inf     360     inf     inf     inf     inf     inf     inf     inf     inf
+inf     150     inf     inf       120     inf     inf     inf     inf     inf     390     inf     inf     inf
+inf     inf     inf     120       inf     240     120     inf     inf     inf     inf     inf     inf     inf
+inf     inf     360     inf       240     inf     inf     inf     inf     210     inf     inf     inf     360
+inf     inf     inf     inf       120     inf     inf     150     inf     inf     inf     inf     inf     inf
+480     inf     inf     inf       inf     inf     150     inf     150     inf     inf     inf     inf     inf
+inf     inf     inf     inf       inf     inf     inf     150     inf     150     inf     60      60      inf
+inf     inf     inf     inf       inf     210     inf     inf     150     inf     inf     inf     inf     inf
+inf     inf     inf     390       inf     inf     inf     inf     inf     inf     inf     120     150     inf
+inf     inf     inf     inf       inf     inf     inf     inf     60      inf     120     inf     inf     60
+inf     inf     inf     inf       inf     inf     inf     inf     60      inf     150     inf     inf     30
+inf     inf     inf     inf       inf     360     inf     inf     inf     inf     inf     60      30      inf

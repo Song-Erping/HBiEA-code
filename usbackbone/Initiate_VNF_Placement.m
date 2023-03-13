@@ -1,0 +1,1 @@
+function Pop_VNF=Initiate_VNF_Placement(Pop_size,Traffic,K_Path_Traffic,Pop_Routing)
